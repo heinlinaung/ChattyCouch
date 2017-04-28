@@ -1,0 +1,16 @@
+{
+  "name": "chatty-coach",
+  "version": "1.0.0",
+  "description": "Simple real time web chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chat",
+    "Chatty",
+    "RealTime"
+  ],
+  "author": "Hein Lin Aung",
+  "license": "MIT"
+}
